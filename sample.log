@@ -1,0 +1,5 @@
+INFO Application started
+WARNING Disk space is getting low
+INFO User logged in
+ERROR Unable to connect to database
+INFO Application stopped
